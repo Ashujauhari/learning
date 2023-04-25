@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T13:24:01.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QvbfuQkZRn7Ow5UNFwRq" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T14:11:24.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8mIHg3NrC84ITuO-6pW1" version="21.2.1" type="github">
   <diagram name="Page-1" id="wM-TZE16LRs2QRcTBMvU">
     <mxGraphModel dx="954" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#252222" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i44L2ubMcQVwItsrYJcJ-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#fbf55b;" vertex="1" parent="1">
-          <mxGeometry x="110" y="390" width="60" height="40" as="geometry" />
+        <mxCell id="i44L2ubMcQVwItsrYJcJ-1" value="ChatGPT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Architects Daughter;fontColor=#fb5b83;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="325" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i44L2ubMcQVwItsrYJcJ-6" value="Introduction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=35;fontFamily=Architects Daughter;fontColor=#fbd85b;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="45" y="360" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i44L2ubMcQVwItsrYJcJ-11" value="&lt;font color=&quot;#00ff00&quot;&gt;Benefits&lt;/font&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Save Time&lt;/li&gt;&lt;li&gt;Shares the expertise&lt;/li&gt;&lt;li&gt;Quick Ideas&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Architects Daughter;fontColor=#5bfbf0;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="i44L2ubMcQVwItsrYJcJ-12" value="&lt;font color=&quot;#00ff00&quot;&gt;Helps in&lt;/font&gt;&lt;font color=&quot;#c2bd24&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Collating the large set of information.&lt;/li&gt;&lt;li&gt;Generate new content&lt;/li&gt;&lt;li&gt;Coding and testing&lt;/li&gt;&lt;li&gt;Resolves the queries&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Architects Daughter;fontColor=#5bfbf0;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="470" y="405" width="500" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
